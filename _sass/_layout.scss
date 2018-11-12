@@ -49,9 +49,21 @@ img {
     margin-left: 15px;
     position:relative;
     @media screen and (max-width: 768px) {
-        font-size: 1.7em;
+        font-size: 1.5em;
         left: 70px;
-        top:8px;
+        top:10px;
+        
+    }
+        @media screen and (max-width: 400px) {
+        font-size: 1em;
+        left: 70px;
+        top:17px;
+        
+    }
+            @media screen and (max-width: 340px) {
+        font-size: .9em;
+        left: 70px;
+        top:20px;
         
     }
 }
