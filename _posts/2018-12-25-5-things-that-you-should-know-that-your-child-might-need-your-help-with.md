@@ -6,7 +6,7 @@ author: The Roar Out Loud Team
 img: 5 concern areas parents must be aware of.png
 ---
 
-The world has not just become amazingly complex for you but also your children. To help your child navigate the modern world, we have come up with the top 5 areas of concern that you must be aware of where your children might need your help.
+The world has not just become amazingly complex for you but also for your children. To help your child navigate the modern world, we have come up with the top 5 areas of concern that you must be aware of where your children might need your help.
 
 Here are the top five things that kids are concerened today with and parents should know about:
 
