@@ -2,7 +2,7 @@
 title: The benefits of narrating a night-time story to your young ones
 layout: post
 author: The Roar Out Loud Team
-categories: Me and My Child
+categories: [Me and My Child]
 img: Bed-time_stories.png
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 5 things you should know that your child might need your help with
 layout: post
-categories: Me and My Child
+categories: [Me and My Child]
 author: The Roar Out Loud Team
 img: 5 concern areas parents must be aware of.png
 ---

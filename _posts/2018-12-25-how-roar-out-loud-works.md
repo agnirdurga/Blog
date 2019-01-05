@@ -4,7 +4,7 @@ img: Template1.png
 description: Roar Out Loud is for parents who want to raise confident kids in life.
   We provide age-appropriate reading book boxes for children.
 layout: post
-categories: ROL News
+categories: [ROL News]
 author: The Roar Out Loud Team
 ---
 
